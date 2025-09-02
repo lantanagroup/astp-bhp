@@ -3,8 +3,8 @@ feedback:
   - active: true
     dashboard:
       label: New Issue
-      url: https://https://github.com/lantanagroup/astp-bhp/issues/new
+      url: https://github.com/lantanagroup/astp-bhp/issues/new
   - active: true
     dashboard:
       label: Issues
-      url: https://https://github.com/lantanagroup/astp-bhp/issues
+      url: https://github.com/lantanagroup/astp-bhp/issues
