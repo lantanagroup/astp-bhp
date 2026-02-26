@@ -16,7 +16,7 @@
         <definition value="Discretionary Funding"/>
     </concept>
     <concept>
-        <code value="grant-funding-type"/>
+        <code value="grant-funding-type7"/>
         <display value="Grant Funding Type"/>
         <definition value="Grant Funding Type"/>
     </concept>

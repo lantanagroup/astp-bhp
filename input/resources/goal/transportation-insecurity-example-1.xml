@@ -2,7 +2,7 @@
     <id value="transportation-insecurity-example-1"/>
     <meta>
         <profile
-            value="http://hl7.org/fhir/us/sdoh-clinicalcare/StructureDefinition/SDOHCC-Goal"/>
+            value="http://hl7.org/fhir/us/sdoh-clinicalcare/StructureDefinition/SDOHCC-Goal-Profile"/>
     </meta>
     <lifecycleStatus value="active"/>
     <achievementStatus>
@@ -20,7 +20,7 @@
         </coding>
     </description>
     <subject>
-        <reference value="Patient/bh-patient-example"/>
+        <reference value="Patient/behavioral-health-patient-example"/>
         <display value="James Wolff"/>
     </subject>
     <statusDate value="2024-02-01"/>

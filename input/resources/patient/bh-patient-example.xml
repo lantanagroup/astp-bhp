@@ -44,7 +44,7 @@
     </extension>
     <!-- Veteran Status -->
     <extension
-        url="http://hl7.org/fhir/us/military-service/StructureDefinition/military-service-veteran-status">
+        url="http://hl7.org/fhir/us/military-service/StructureDefinition/military-service-veteran-statuses">
         <valueBoolean value="true"/>
     </extension>
     <!-- Tribal Affiliation -->
